@@ -3,7 +3,7 @@
  <h3>npm run dev, to run</h3> 
 
 
-# Configuration
+# Configuração
   Gere sua Api key => https://home.openweathermap.org/api_keys
   substitua a na pasta services => WeatherApi.jsx => API_KEY.
   Não altere a API_KEY2
